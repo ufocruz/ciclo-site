@@ -1,6 +1,6 @@
 # Política de privacidade do Ciclo
 
-_Última atualização: [data da publicação]_
+_Última atualização: 12 de outubro de 2026_
 
 O Ciclo é um app de acompanhamento menstrual que funciona **sem conta, sem login e sem servidor**. Esta política
 explica, em palavras simples, o que acontece com os seus dados.
@@ -84,5 +84,5 @@ Se esta política mudar, a data no topo será atualizada e a nova versão ficar�
 
 ## Contato
 
-Responsável: [nome do responsável]
-E-mail: [e-mail de contato]
+- Responsável: André Amaral de Paiva
+- E-mail: [cruzufo@gmail.com](mailto:cruzufo@gmail.com)

@@ -1,6 +1,6 @@
 # Ajuda do Ciclo
 
-Respostas rápidas para as dúvidas mais comuns. Não achou a sua? Escreva para [e-mail de contato].
+Respostas rápidas para as dúvidas mais comuns. Não achou a sua? Escreva para [cruzufo@gmail.com](mailto:cruzufo@gmail.com).
 
 ## Como marco a menstruação?
 
