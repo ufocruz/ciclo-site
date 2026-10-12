@@ -1,0 +1,4 @@
+# GitHub Pages (Jekyll). Os .md sem front matter viram páginas, e os links entre .md viram .html.
+title: Ciclo
+description: Calendário menstrual simples e privado.
+lang: pt-BR
