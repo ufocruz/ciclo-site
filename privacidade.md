@@ -60,9 +60,10 @@ O Google trata esses dados como controlador, conforme as regras dele. Nós não 
 AdMob só nos mostra totais de exibições e de receita. O Google pode guardá-los em servidores fora do Brasil,
 inclusive nos Estados Unidos, com as garantias que ele descreve, e pelo prazo da política dele.
 
-Em países onde a lei exige consentimento (como na União Europeia, no Reino Unido e na Suíça), o app mostra o
-formulário de consentimento do Google antes dos anúncios, e você pode mudar sua escolha em **Ajustes > Privacidade >
-Opções de privacidade dos anúncios**.
+**No Espaço Econômico Europeu, no Reino Unido e na Suíça**, o app marca todo pedido de anúncio como de pessoa
+abaixo da idade de consentimento. O app é para quem tem 13 anos ou mais, e em vários desses países só a partir de 16
+anos dá para consentir sem os pais. Por isso o app não pede consentimento para anúncios lá, e o Google mostra
+anúncios sem personalização e sem chamar outras empresas de anúncio ou de medição.
 
 Saiba mais:
 
@@ -84,8 +85,8 @@ ciclo nem o arquivo de backup: não precisamos deles para ajudar.
 
 - **Dados do ciclo e ajustes:** não chegam até nós; ficam no seu celular, sob o seu controle.
 - **Anúncios:** no Brasil e na maior parte dos países, legítimo interesse em manter o app gratuito (LGPD, art. 7º,
-  IX), com anúncios só não personalizados para reduzir o impacto. Onde a lei exige consentimento, o seu
-  consentimento, dado no formulário do Google.
+  IX), com anúncios só não personalizados para reduzir o impacto. No Espaço Econômico Europeu, no Reino Unido e
+  na Suíça, o legítimo interesse (RGPD, art. 6º, 1, f), com o tratamento restrito descrito em "Anúncios".
 - **Compra:** execução do contrato (LGPD, art. 7º, V).
 - **E-mail:** legítimo interesse em responder você (art. 7º, IX) e, quando for um pedido sobre os seus direitos,
   cumprimento de obrigação legal (art. 7º, II).
@@ -117,9 +118,7 @@ anúncios, fale com a gente pelo contato abaixo; respondemos em até 15 dias. Vo
 Nacional de Proteção de Dados (ANPD): https://www.gov.br/anpd
 
 **No Espaço Econômico Europeu, no Reino Unido e na Suíça**, você tem os direitos de acesso, retificação,
-apagamento, limitação, portabilidade e oposição, pode retirar o consentimento dos anúncios a qualquer momento em
-Ajustes > Privacidade (sem afetar o que foi feito antes) e pode reclamar à autoridade de proteção de dados do seu
-país.
+apagamento, limitação, portabilidade e oposição, e pode reclamar à autoridade de proteção de dados do seu país.
 
 ## Mudanças nesta política
 

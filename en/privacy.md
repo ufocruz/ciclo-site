@@ -62,9 +62,10 @@ Google handles this data as a controller, under its own rules. We do not receive
 shows us total impressions and revenue. Google may store it on servers outside Brazil, including in the United
 States, with the safeguards it describes, and for the period set in its policy.
 
-In countries where the law requires consent (such as the European Union, the United Kingdom and Switzerland), the
-app shows Google's consent form before any ads, and you can change your choice in **Settings > Privacy > Ad privacy
-options**.
+**In the European Economic Area, the United Kingdom and Switzerland**, the app tags every ad request as coming from
+someone under the age of consent. The app is for people aged 13 and over, and in several of these countries you can
+only consent without your parents from age 16. So the app does not ask for ad consent there, and Google shows ads
+without personalization and without calling other ad or measurement companies.
 
 Learn more:
 
@@ -86,8 +87,8 @@ backup file: we do not need them to help.
 
 - **Cycle data and settings:** they never reach us; they stay on your phone, under your control.
 - **Ads:** in Brazil and most countries, our legitimate interest in keeping the app free (LGPD, art. 7, IX), with
-  non-personalized ads only, to reduce the impact. Where the law requires consent, your consent, given in Google's
-  form.
+  non-personalized ads only, to reduce the impact. In the European Economic Area, the United Kingdom and
+  Switzerland, legitimate interest (GDPR, art. 6(1)(f)), with the restricted processing described under "Ads".
 - **Purchase:** performance of the contract (LGPD, art. 7, V).
 - **Email:** our legitimate interest in replying to you (art. 7, IX) and, when it is a request about your rights,
   compliance with a legal obligation (art. 7, II).
@@ -119,8 +120,7 @@ contact us using the details below; we reply within 15 days. You can also compla
 Authority (ANPD): https://www.gov.br/anpd
 
 **In the European Economic Area, the United Kingdom and Switzerland**, you have the rights of access, rectification,
-erasure, restriction, portability and objection, you can withdraw your consent to ads at any time in Settings >
-Privacy (without affecting what was done before), and you can complain to the data protection authority in your
+erasure, restriction, portability and objection, and you can complain to the data protection authority in your
 country.
 
 ## Changes to this policy

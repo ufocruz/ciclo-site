@@ -66,9 +66,11 @@ Google trata estos datos como responsable, según sus propias reglas. Nosotros n
 AdMob solo nos muestra totales de impresiones y de ingresos. Google puede guardarlos en servidores fuera de Brasil,
 incluso en Estados Unidos, con las garantías que describe y durante el plazo de su política.
 
-En los países donde la ley exige consentimiento (como la Unión Europea, el Reino Unido y Suiza), la app muestra el
-formulario de consentimiento de Google antes de los anuncios, y puedes cambiar tu elección en **Ajustes > Privacidad >
-Opciones de privacidad de los anuncios**.
+**En el Espacio Económico Europeo, el Reino Unido y Suiza**, la app marca cada solicitud de anuncio como de una
+persona por debajo de la edad de consentimiento. La app es para personas a partir de 13 años, y en varios de esos
+países solo se puede consentir sin los padres a partir de los 16. Por eso la app no pide consentimiento para los
+anuncios allí, y Google muestra anuncios sin personalización y sin llamar a otras empresas de anuncios o de
+medición.
 
 Más información:
 
@@ -90,8 +92,9 @@ ni el archivo de copia: no los necesitamos para ayudarte.
 
 - **Datos del ciclo y ajustes:** no llegan a nosotros; se quedan en tu teléfono, bajo tu control.
 - **Anuncios:** en Brasil y en la mayoría de los países, nuestro interés legítimo en mantener la app gratuita (LGPD,
-  art. 7, IX), con anuncios solo no personalizados para reducir el impacto. Donde la ley exige consentimiento, tu
-  consentimiento, dado en el formulario de Google.
+  art. 7, IX), con anuncios solo no personalizados para reducir el impacto. En el Espacio Económico Europeo, el
+  Reino Unido y Suiza, el interés legítimo (RGPD, art. 6.1.f), con el tratamiento restringido descrito en
+  "Anuncios".
 - **Compra:** ejecución del contrato (LGPD, art. 7, V).
 - **Correo:** nuestro interés legítimo en responderte (art. 7, IX) y, cuando es una solicitud sobre tus derechos,
   el cumplimiento de una obligación legal (art. 7, II).
@@ -124,9 +127,8 @@ SDK de anuncios, escríbenos al contacto de abajo; respondemos en un plazo de 15
 Autoridad Nacional de Protección de Datos de Brasil (ANPD): https://www.gov.br/anpd
 
 **En el Espacio Económico Europeo, el Reino Unido y Suiza**, tienes los derechos de acceso, rectificación,
-supresión, limitación, portabilidad y oposición, puedes retirar el consentimiento de los anuncios en cualquier
-momento en Ajustes > Privacidad (sin afectar a lo hecho antes) y puedes reclamar ante la autoridad de protección de
-datos de tu país.
+supresión, limitación, portabilidad y oposición, y puedes reclamar ante la autoridad de protección de datos de tu
+país.
 
 ## Cambios en esta política
 
