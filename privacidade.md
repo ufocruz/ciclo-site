@@ -17,8 +17,8 @@ explica, em palavras simples, o que acontece com os seus dados.
 O app guarda no próprio celular:
 
 - as datas de início e fim das suas menstruações e os ciclos que você confirmou;
-- seus ajustes: horário e tipos de lembrete, modo discreto, duração inicial do ciclo, mês e ano de nascimento (se
-  você informar), se os anúncios foram removidos e se o app já pediu permissão para notificações.
+- seus ajustes: horário e tipos de lembrete, modo discreto, idioma, duração inicial do ciclo, mês e ano de nascimento
+  (se você informar), se os anúncios foram removidos e se o app já pediu permissão para notificações.
 
 Esses dados ficam numa área privada do app no seu celular. Nada disso é enviado para nós nem para ninguém.
 
@@ -27,7 +27,7 @@ o próprio sistema pode copiar os arquivos do app para a **sua** conta, como faz
 recuperar o histórico ao trocar de celular. Nós não temos acesso a esse backup. Você pode desligá-lo nos ajustes do
 celular.
 
-**Exportar backup:** se você usar "Exportar" nos Ajustes, o app cria um arquivo com o seu histórico e abre a tela de
+**Exportar backup:** se você usar "Exportar backup" nos Ajustes, o app cria um arquivo com o seu histórico e abre a tela de
 compartilhar do celular. Você escolhe para onde ele vai. O arquivo não é protegido por senha; guarde em um lugar
 seguro.
 
@@ -67,8 +67,8 @@ não coleta dados do ciclo. Os anúncios são não personalizados para todo mund
 
 ## Como apagar seus dados
 
-- Em **Ajustes > Apagar todos os dados**, o app apaga o histórico, os ajustes, as cópias de segurança internas, os
-  lembretes agendados e os dados do widget.
+- Em **Ajustes > Apagar todos os dados**, o app apaga o histórico, os ajustes (menos o idioma e a compra "Remover
+  anúncios"), as cópias de segurança internas, os lembretes agendados e os dados do widget.
 - Desinstalar o app também apaga os dados do celular.
 - Backups que você exportou ou que o sistema fez na sua conta ficam com você; apague-os por lá se quiser.
 

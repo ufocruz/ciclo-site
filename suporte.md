@@ -17,6 +17,11 @@ apagadas no **Histórico** ou tocando nos dias do **Calendário**.
 O botão do widget marca o início e o fim sem abrir o app. No dia em que você marca, ele mostra **Desfazer**: um toque
 a mais sem querer desfaz a marcação em vez de registrar outra.
 
+## Como troco o idioma?
+
+O app segue o idioma do celular (português, inglês ou espanhol; com qualquer outro, inglês). Para escolher outro, vá
+em **Ajustes > Idioma**.
+
 ## A previsão está errada. O que faço?
 
 As previsões são estimativas feitas a partir do seu histórico. Elas melhoram depois de alguns ciclos registrados.
