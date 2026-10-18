@@ -1,7 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="2.5 4.4 120 120"><g stroke-width="2" stroke-linejoin="round">
-<path d="M15 28 C38 26 64 44 67 74 C68 88 66 98 65 104 C40 92 18 72 14 50 C13 40 13 33 15 28 Z" fill="#E9A8BC" stroke="#E9A8BC"/>
-<path d="M116 27 C92 30 72 44 69 60 C68 75 70 92 71 101 C92 96 112 80 117 56 C118 44 117 34 116 27 Z" fill="#CEB9E2" stroke="#CEB9E2"/>
-<path d="M7 86 C30 82 52 95 60 121 C40 122 18 110 7 86 Z" fill="#D6829C" stroke="#D6829C"/>
-<path d="M118 86 C96 86 76 102 69 121 C92 122 112 110 118 86 Z" fill="#F9C8D2" stroke="#F9C8D2"/>
-<circle cx="67" cy="18.4" r="11.6" fill="#D9869E" stroke="#D9869E"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4.2 5.7 118 118"><g stroke-width="4" stroke-linejoin="round">
+<defs>
+<mask id="lotus-behind-pink" maskUnits="userSpaceOnUse" x="0" y="0" width="125" height="128"><rect width="125" height="128" fill="white"/><g fill="black" stroke="black" stroke-width="17"><path d="M17.1 29.6 C44.8 29 72.6 60.6 62.2 101.4 C32.2 89.1 7.8 66.1 17.1 29.6 Z"/><path d="M70.8 120 C70.2 107.1 92.7 102.4 105.2 89.8 C109.8 85 117 87 117 87.5 C117 99.4 96 122.6 70.8 120 Z"/></g></mask>
+<mask id="lotus-behind-bottom" maskUnits="userSpaceOnUse" x="0" y="0" width="125" height="128"><rect width="125" height="128" fill="white"/><g fill="black" stroke="black" stroke-width="17"><path d="M9.4 88.2 C24 84.3 52.9 100.3 57 119.3 C35.4 122.4 14.8 106.9 9.4 88.2 Z"/></g></mask>
+</defs>
+<path mask="url(#lotus-behind-pink)" d="M113.6 29.1 C90.7 26.1 52.4 57.2 68.9 100.4 C99.4 92.4 122.1 65.5 113.6 29.1 Z" fill="#D0B8E2" stroke="#D0B8E2"/>
+<path mask="url(#lotus-behind-bottom)" d="M17.1 29.6 C44.8 29 72.6 60.6 62.2 101.4 C32.2 89.1 7.8 66.1 17.1 29.6 Z" fill="#E8A7BA" stroke="#E8A7BA"/>
+<path d="M9.4 88.2 C24 84.3 52.9 100.3 57 119.3 C35.4 122.4 14.8 106.9 9.4 88.2 Z" fill="#D9859E" stroke="#D9859E"/>
+<path d="M70.8 120 C70.2 107.1 92.7 102.4 105.2 89.8 C109.8 85 117 87 117 87.5 C117 99.4 96 122.6 70.8 120 Z" fill="#F5C1CD" stroke="#F5C1CD"/>
+<circle cx="66.7" cy="18.6" r="11.3" fill="#D8889F"/>
 </g></svg>
