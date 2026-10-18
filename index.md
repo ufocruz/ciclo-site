@@ -1,4 +1,4 @@
-# Ciclo
+# CicloBem
 
 Calendário menstrual simples e privado: seus dados ficam só no seu celular.
 

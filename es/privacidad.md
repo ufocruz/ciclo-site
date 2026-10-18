@@ -2,11 +2,11 @@
 lang: es
 ---
 
-# Política de privacidad de Ciclo
+# Política de privacidad de CicloBem
 
-_Última actualización: 12 de octubre de 2026_
+_Última actualización: 18 de octubre de 2026_
 
-Ciclo es una app de seguimiento menstrual que funciona **sin cuenta, sin inicio de sesión y sin servidor**. Esta
+CicloBem es una app de seguimiento menstrual que funciona **sin cuenta, sin inicio de sesión y sin servidor**. Esta
 política explica, con palabras sencillas, qué pasa con tus datos.
 
 ## Resumen
@@ -23,7 +23,11 @@ La app guarda en el propio teléfono:
 
 - las fechas de inicio y fin de tus menstruaciones y los ciclos que confirmaste, para mostrar el calendario, las
   previsiones, el análisis y los recordatorios;
-- tus ajustes: hora y tipos de recordatorio, modo discreto, idioma, duración inicial del ciclo, si se quitaron los
+- el registro diario, solo lo que completes: ánimo, flujo, cólicos, síntomas, sueño y notas, para mostrar el día y
+  los síntomas más frecuentes en el análisis;
+- si pausas las previsiones, el motivo (embarazo, lactancia o anticonceptivo hormonal) y las fechas de la pausa, para
+  ocultar previsiones y recordatorios de previsión y dejar ese período fuera de los cálculos;
+- tus ajustes: hora y tipos de recordatorio, modo discreto, idioma, tema, duración inicial del ciclo, si se quitaron los
   anuncios y si la app ya pidió permiso para las notificaciones;
 - mes y año de nacimiento, solo si los indicas. Sirven para que el análisis use el rango de ciclo esperado para
   menores de 18 años.
@@ -40,6 +44,10 @@ ajustes del teléfono.
 **Exportar copia:** si usas "Exportar copia" en Ajustes, la app crea un archivo con tu historial y abre la pantalla
 de compartir del teléfono. Tú eliges adónde va. El archivo no está protegido con contraseña; guárdalo en un lugar
 seguro.
+
+**Resumen para la consulta:** si tocas "Generar y compartir" en Análisis, la app arma un texto con las fechas de tus
+menstruaciones de los últimos 12 meses, sus duraciones y tus síntomas más frecuentes, y abre la pantalla de compartir
+del teléfono. Tú eliges adónde va; nosotros no recibimos una copia.
 
 ## Recordatorios y widget
 
@@ -139,5 +147,5 @@ versión en portugués es la de referencia: [Política de privacidade](../privac
 
 - Responsable del tratamiento: André Amaral de Paiva
 - Correo: [cruzufo@gmail.com](mailto:cruzufo@gmail.com)
-- Delegado de protección de datos: como agente de tratamiento de pequeño porte, Ciclo no lo designa (Resolución
+- Delegado de protección de datos: como agente de tratamiento de pequeño porte, CicloBem no lo designa (Resolución
   CD/ANPD n.º 2/2022, art. 11). El canal para hablar de tus datos es el correo de arriba.

@@ -1,8 +1,8 @@
-# Política de privacidade do Ciclo
+# Política de privacidade do CicloBem
 
-_Última atualização: 12 de outubro de 2026_
+_Última atualização: 18 de outubro de 2026_
 
-O Ciclo é um app de acompanhamento menstrual que funciona **sem conta, sem login e sem servidor**. Esta política
+O CicloBem é um app de acompanhamento menstrual que funciona **sem conta, sem login e sem servidor**. Esta política
 explica, em palavras simples, o que acontece com os seus dados.
 
 ## Resumo
@@ -19,7 +19,11 @@ O app guarda no próprio celular:
 
 - as datas de início e fim das suas menstruações e os ciclos que você confirmou, para mostrar o calendário, as
   previsões, a análise e os lembretes;
-- seus ajustes: horário e tipos de lembrete, modo discreto, idioma, duração inicial do ciclo, se os anúncios foram
+- o registro diário, só o que você preencher: humor, fluxo, cólica, sintomas, sono e anotações, para mostrar o dia e
+  os sintomas mais frequentes na análise;
+- se você pausar as previsões, o motivo (gravidez, amamentação ou anticoncepcional hormonal) e as datas da pausa, para
+  esconder previsões e lembretes de previsão e deixar esse período fora das contas;
+- seus ajustes: horário e tipos de lembrete, modo discreto, idioma, tema, duração inicial do ciclo, se os anúncios foram
   removidos e se o app já pediu permissão para notificações;
 - mês e ano de nascimento, só se você informar. Servem para usar, na análise, a faixa de ciclo esperada para menores
   de 18 anos.
@@ -35,6 +39,10 @@ celular.
 **Exportar backup:** se você usar "Exportar backup" nos Ajustes, o app cria um arquivo com o seu histórico e abre a tela de
 compartilhar do celular. Você escolhe para onde ele vai. O arquivo não é protegido por senha; guarde em um lugar
 seguro.
+
+**Resumo para consulta:** se você tocar em "Gerar e compartilhar" na Análise, o app monta um texto com as datas das
+menstruações dos últimos 12 meses, as durações e os sintomas mais frequentes, e abre a tela de compartilhar do
+celular. Você escolhe para onde ele vai; nós não recebemos uma cópia.
 
 ## Lembretes e widget
 
@@ -107,7 +115,7 @@ criança com menos de 13 anos sem o consentimento de quem é responsável por el
 
 ## Seus direitos
 
-O Ciclo é feito no Brasil e segue a Lei Geral de Proteção de Dados (LGPD, Lei 13.709/2018). Pela LGPD (art. 18),
+O CicloBem é feito no Brasil e segue a Lei Geral de Proteção de Dados (LGPD, Lei 13.709/2018). Pela LGPD (art. 18),
 você tem direito a confirmar se tratamos dados seus, acessá-los, corrigi-los, pedir anonimização, bloqueio ou
 eliminação, levá-los a outro serviço, saber com quem são compartilhados, revogar o consentimento e se opor a um
 tratamento.
@@ -128,5 +136,5 @@ Se esta política mudar, a data no topo será atualizada e a nova versão ficar�
 
 - Controlador (responsável pelos dados): André Amaral de Paiva
 - E-mail: [cruzufo@gmail.com](mailto:cruzufo@gmail.com)
-- Encarregado: como agente de tratamento de pequeno porte, o Ciclo não indica encarregado (Resolução CD/ANPD nº
+- Encarregado: como agente de tratamento de pequeno porte, o CicloBem não indica encarregado (Resolução CD/ANPD nº
   2/2022, art. 11). O canal para falar sobre os seus dados é o e-mail acima.

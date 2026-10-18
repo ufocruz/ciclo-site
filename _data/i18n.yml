@@ -1,0 +1,31 @@
+# Textos do layout do site nos três idiomas. A assinatura é a do app (`tagline` em src/i18n).
+pt-BR:
+  name: Português
+  tagline: Seu ciclo, no seu ritmo.
+  description: Calendário menstrual simples e privado.
+  skip: Ir para o conteúdo
+  languages: Idioma
+  links: Links do site
+  pages:
+    help: { title: Ajuda, url: /suporte.html }
+    privacy: { title: Política de privacidade, url: /privacidade.html }
+en:
+  name: English
+  tagline: Your cycle, your rhythm.
+  description: A simple and private period tracker.
+  skip: Skip to content
+  languages: Language
+  links: Site links
+  pages:
+    help: { title: Help, url: /en/support.html }
+    privacy: { title: Privacy policy, url: /en/privacy.html }
+es:
+  name: Español
+  tagline: Tu ciclo, a tu ritmo.
+  description: Un calendario menstrual sencillo y privado.
+  skip: Ir al contenido
+  languages: Idioma
+  links: Enlaces del sitio
+  pages:
+    help: { title: Ayuda, url: /es/ayuda.html }
+    privacy: { title: Política de privacidad, url: /es/privacidad.html }

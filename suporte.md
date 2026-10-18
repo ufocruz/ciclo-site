@@ -1,4 +1,4 @@
-# Ajuda do Ciclo
+# Ajuda do CicloBem
 
 Respostas rápidas para as dúvidas mais comuns. Não achou a sua? Escreva para [cruzufo@gmail.com](mailto:cruzufo@gmail.com).
 
@@ -10,9 +10,9 @@ apagadas no **Histórico** ou tocando nos dias do **Calendário**.
 
 ## Como coloco o widget na tela inicial?
 
-- **Android:** toque e segure num espaço vazio da tela inicial, escolha **Widgets** e procure o Ciclo.
+- **Android:** toque e segure num espaço vazio da tela inicial, escolha **Widgets** e procure o CicloBem.
 - **iPhone (iOS 17 ou mais recente):** toque e segure num espaço vazio da tela inicial, toque em **Editar** ou no
-  **+**, e procure o Ciclo.
+  **+**, e procure o CicloBem.
 
 O botão do widget marca o início e o fim sem abrir o app. No dia em que você marca, ele mostra **Desfazer**: um toque
 a mais sem querer desfaz a marcação em vez de registrar outra.
@@ -31,9 +31,9 @@ Este app não é um método contraceptivo e não substitui orientação médica.
 
 ## Os lembretes não chegam
 
-- Confira se as notificações do Ciclo estão permitidas nos ajustes do celular.
+- Confira se as notificações do CicloBem estão permitidas nos ajustes do celular.
 - Confira em **Ajustes > Lembretes** se o tipo de lembrete está ligado.
-- No Android, a economia de bateria pode atrasar avisos. Se acontecer, deixe o Ciclo fora da otimização de bateria.
+- No Android, a economia de bateria pode atrasar avisos. Se acontecer, deixe o CicloBem fora da otimização de bateria.
 
 ## Troquei de celular. Como levo meu histórico?
 

@@ -2,7 +2,7 @@
 lang: en
 ---
 
-# Ciclo help
+# CicloBem help
 
 Quick answers to the most common questions. Didn't find yours? Write to [cruzufo@gmail.com](mailto:cruzufo@gmail.com).
 
@@ -14,9 +14,9 @@ another day, use **"Started on another day"**, right below the button. Past date
 
 ## How do I add the widget to the home screen?
 
-- **Android:** touch and hold an empty spot on the home screen, choose **Widgets** and look for Ciclo.
+- **Android:** touch and hold an empty spot on the home screen, choose **Widgets** and look for CicloBem.
 - **iPhone (iOS 17 or later):** touch and hold an empty spot on the home screen, tap **Edit** or **+**, and look
-  for Ciclo.
+  for CicloBem.
 
 The widget button logs the start and the end without opening the app. On the day you log it, it shows **Undo**: an
 extra tap by mistake undoes the entry instead of logging another one.
@@ -35,9 +35,9 @@ This app is not a contraceptive method and does not replace medical advice.
 
 ## Reminders don't arrive
 
-- Check that Ciclo's notifications are allowed in your phone settings.
+- Check that CicloBem's notifications are allowed in your phone settings.
 - Check in **Settings > Reminders** that the reminder type is turned on.
-- On Android, battery saving can delay notifications. If that happens, exclude Ciclo from battery optimization.
+- On Android, battery saving can delay notifications. If that happens, exclude CicloBem from battery optimization.
 
 ## I changed phones. How do I move my history over?
 

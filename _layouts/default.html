@@ -1,0 +1,43 @@
+<!doctype html>
+{%- assign t = site.data.i18n[page.lang] | default: site.data.i18n["pt-BR"] %}
+<html lang="{{ page.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="{{ t.description }}">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="icon" type="image/png" href="{{ '/assets/favicon.png' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip" href="#content">{{ t.skip }}</a>
+  <header class="site-header">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/logo-symbol.svg' | relative_url }}" width="48" height="48" alt="">
+      <span>
+        <span class="brand-name">{{ site.title }}</span>
+        <span class="brand-tagline">{{ t.tagline }}</span>
+      </span>
+    </a>
+    {%- if page.ref %}
+    <nav class="languages" aria-label="{{ t.languages }}">
+      {%- for language in site.data.i18n %}
+      {%- assign code = language[0] %}
+      <a href="{{ language[1].pages[page.ref].url | relative_url }}" lang="{{ code }}" hreflang="{{ code }}"
+        {%- if code == page.lang %} aria-current="page"{% endif %}>{{ language[1].name }}</a>
+      {%- endfor %}
+    </nav>
+    {%- endif %}
+  </header>
+  <main id="content" class="card">
+{{ content }}
+  </main>
+  <footer class="site-footer">
+    <nav aria-label="{{ t.links }}">
+      <a href="{{ t.pages.help.url | relative_url }}">{{ t.pages.help.title }}</a>
+      <a href="{{ t.pages.privacy.url | relative_url }}">{{ t.pages.privacy.title }}</a>
+    </nav>
+  </footer>
+</body>
+</html>

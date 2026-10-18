@@ -2,7 +2,7 @@
 lang: es
 ---
 
-# Ayuda de Ciclo
+# Ayuda de CicloBem
 
 Respuestas rápidas a las dudas más comunes. ¿No encontraste la tuya? Escribe a
 [cruzufo@gmail.com](mailto:cruzufo@gmail.com).
@@ -15,9 +15,9 @@ día, usa **"Empezó otro día"**, justo debajo del botón. Las fechas pasadas s
 
 ## ¿Cómo pongo el widget en la pantalla de inicio?
 
-- **Android:** mantén presionado un espacio vacío de la pantalla de inicio, elige **Widgets** y busca Ciclo.
+- **Android:** mantén presionado un espacio vacío de la pantalla de inicio, elige **Widgets** y busca CicloBem.
 - **iPhone (iOS 17 o posterior):** mantén presionado un espacio vacío de la pantalla de inicio, toca **Editar** o
-  **+**, y busca Ciclo.
+  **+**, y busca CicloBem.
 
 El botón del widget marca el inicio y el fin sin abrir la app. El día en que marcas, muestra **Deshacer**: un toque
 de más sin querer deshace la marca en lugar de registrar otra.
@@ -37,9 +37,9 @@ Esta app no es un método anticonceptivo y no sustituye la orientación médica.
 
 ## No me llegan los recordatorios
 
-- Revisa que las notificaciones de Ciclo estén permitidas en los ajustes del teléfono.
+- Revisa que las notificaciones de CicloBem estén permitidas en los ajustes del teléfono.
 - Revisa en **Ajustes > Recordatorios** que el tipo de recordatorio esté activado.
-- En Android, el ahorro de batería puede retrasar los avisos. Si pasa, deja Ciclo fuera de la optimización de
+- En Android, el ahorro de batería puede retrasar los avisos. Si pasa, deja CicloBem fuera de la optimización de
   batería.
 
 ## Cambié de teléfono. ¿Cómo me llevo el historial?

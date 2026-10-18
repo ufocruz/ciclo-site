@@ -2,11 +2,11 @@
 lang: en
 ---
 
-# Ciclo privacy policy
+# CicloBem privacy policy
 
-_Last updated: October 12, 2026_
+_Last updated: October 18, 2026_
 
-Ciclo is a period tracking app that works **with no account, no login and no server**. This policy explains, in
+CicloBem is a period tracking app that works **with no account, no login and no server**. This policy explains, in
 plain words, what happens to your data.
 
 ## Summary
@@ -23,7 +23,11 @@ The app stores on the phone itself:
 
 - the start and end dates of your periods and the cycles you confirmed, to show the calendar, predictions, analysis
   and reminders;
-- your settings: reminder time and types, discreet mode, language, initial cycle length, whether ads were removed and
+- the daily log, only what you fill in: mood, flow, cramps, symptoms, sleep and notes, to show the day and the most
+  frequent symptoms in the analysis;
+- if you pause predictions, the reason (pregnancy, breastfeeding or hormonal birth control) and the dates of the pause,
+  to hide predictions and prediction reminders and keep that time out of the calculations;
+- your settings: reminder time and types, discreet mode, language, theme, initial cycle length, whether ads were removed and
   whether the app has already asked for notification permission;
 - month and year of birth, only if you provide them. They are used so the analysis applies the cycle range expected
   for people under 18.
@@ -37,6 +41,10 @@ you change phones. We have no access to that backup. You can turn it off in your
 
 **Export backup:** if you use "Export backup" in Settings, the app creates a file with your history and opens the
 phone's share screen. You choose where it goes. The file is not password-protected; keep it somewhere safe.
+
+**Summary for your appointment:** if you tap "Create and share" in Analysis, the app builds a text with your period
+dates from the last 12 months, their lengths and your most frequent symptoms, and opens the phone's share screen. You
+choose where it goes; we don't receive a copy.
 
 ## Reminders and widget
 
@@ -132,5 +140,5 @@ Portuguese version is the reference: [Política de privacidade](../privacidade.m
 
 - Data controller: André Amaral de Paiva
 - Email: [cruzufo@gmail.com](mailto:cruzufo@gmail.com)
-- Data protection officer: as a small-scale processing agent, Ciclo has not appointed one (ANPD Resolution CD/ANPD
+- Data protection officer: as a small-scale processing agent, CicloBem has not appointed one (ANPD Resolution CD/ANPD
   No. 2/2022, art. 11). The channel for questions about your data is the email above.
